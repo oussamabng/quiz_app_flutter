@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![alt text](https://raw.github.com/oussamabng/quiz_app_flutter/master/pictures/1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
