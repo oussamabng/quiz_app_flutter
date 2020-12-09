@@ -1,6 +1,6 @@
-# quizz_app
+# Quiz App
 
-A new Flutter application.
+simple quiz app from udemy flutter course of ucademy
 
 ![alt text](https://raw.github.com/oussamabng/quiz_app_flutter/master/pictures/1.PNG )
 
