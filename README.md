@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![alt text](https://raw.github.com/oussamabng/quiz_app_flutter/master/pictures/1.png)
+![alt text](https://raw.github.com/oussamabng/quiz_app_flutter/master/pictures/1.PNG )
 
 ## Getting Started
 
